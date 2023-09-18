@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackcoffeeking181
-- 👀 I’m interested in app development (android or ios).
+- 👀 I’m interested in app development (android and /or ios).
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me 
